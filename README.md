@@ -1,7 +1,7 @@
 # React-Custom-Chatbot-UI:
 
 This is my try to build UI for chatbot
-[image](/public/app.png)
+![image](/public/app.png)
 
 # Common Instructons for React App
 

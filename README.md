@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React-Custom-Chatbot-UI:
+
+This is my try to build UI for chatbot
+[image](/public/app.png)
+
+# Common Instructons for React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
